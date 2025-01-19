@@ -2,7 +2,7 @@ replace github.com/NorkzYT/Wolflith/Scripts/Vault/vaultCommon => ./vaultCommon
 
 go 1.21
 
-toolchain go1.23.1
+toolchain go1.23.5
 
 require (
 	github.com/hashicorp/vault/api v1.15.0
