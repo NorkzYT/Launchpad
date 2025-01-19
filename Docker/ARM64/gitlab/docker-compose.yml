@@ -2,7 +2,7 @@
 
 services:
   gitlab:
-    image: yrzr/gitlab-ce-arm64v8:17.7.1-ce.0
+    image: yrzr/gitlab-ce-arm64v8:17.8.0-ce.0
     container_name: gitlab-ce
     privileged: true
     environment:
