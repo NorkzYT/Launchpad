@@ -2,7 +2,7 @@
 
 services:
   n8n:
-    image: n8nio/n8n:1.74.1
+    image: n8nio/n8n:1.75.0
     container_name: n8n
     environment:
       - DB_TYPE=${N8N_DB_TYPE}
